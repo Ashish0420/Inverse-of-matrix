@@ -34,7 +34,7 @@ print(inverse)
 ~~~
 
 ## OUTPUT:
-![](aaa.png)
+![](aaaa.png)
 
 ## RESULT:
 Hence the inverse of nested array has created.
